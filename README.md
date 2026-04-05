@@ -18,8 +18,7 @@ This folder contains Java Swing teaching notes organized into lessons, solutions
 - [06 - FlowLayout](./lessons/06-flowlayout.md)
 - [07 - Event Handling Button Clicks](./lessons/07-event-handling-button-clicks.md)
 - [08 - JTextField](./lessons/08-jtextfield.md)
-- [09 - Combining Components](./lessons/09-combining-components.md)
-- [10 - Building a Login Form](./lessons/10-building-a-login-form.md)
+- [09 - Building a Login Form](./lessons/09-building-a-login-form.md)
 
 ## Solutions
 
@@ -30,7 +29,7 @@ This folder contains Java Swing teaching notes organized into lessons, solutions
 - [06 - Solutions: FlowLayout](./solutions/06-solutions-flowlayout.md)
 - [07 - Solutions: Event Handling](./solutions/07-solutions-event-handling.md)
 - [08 - Solutions: JTextField](./solutions/08-solutions-jtextfield.md)
-- [09 - Solutions: Combining Components](./solutions/09-solutions-combining-components.md)
+- [09 - Solutions: Building a Login Form](./solutions/09-solutions-building-a-login-form.md)
 
 ## Screenshots
 

@@ -292,7 +292,7 @@ With these six pieces, you can build an application that displays information, a
 
 ## What's Next
 
-You now have all the building blocks to create a real application. In Part 9, you will combine everything you have learned into a single program with multiple labels, text fields, and buttons working together. This will prepare you for Part 10, where you will build a complete login form.
+You now have all the building blocks to create a real application. In Part 9, you will use everything you have learned so far to build a complete login form with labels, text fields, buttons, layout management, and event handling working together in one program.
 
 ---
 
@@ -316,4 +316,4 @@ These exercises will help you get comfortable with `JTextField`.
 
 *End of Part 8 -- JTextField*
 
-*Next: [Part 9 -- Combining Components](09-combining-components.md)*
+*Next: [Part 9 -- Building a Login Form](09-building-a-login-form.md)*
