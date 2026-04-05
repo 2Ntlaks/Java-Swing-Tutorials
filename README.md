@@ -1,24 +1,28 @@
-# Swing Tutorials
+# Java Swing Tutorials
 
-This folder contains Java Swing teaching notes organized into lessons, solutions, and screenshots.
+A structured, beginner-friendly tutorial series for learning Java Swing GUI programming. Built for students who want a clear, linear path from zero to building real desktop applications — no scattered blog posts, no jumping between random resources.
+
+Start at Lesson 01 and work through in order. Each lesson builds on the previous one.
 
 ## Structure
 
-- `lessons/` contains the main teaching material.
-- `solutions/` contains exercise solutions and reference answers.
-- `screenshots/` contains images that will be attached manually.
+- `lessons/` — the main teaching material (9 lessons)
+- `solutions/` — exercise solutions and reference answers
+- `screenshots/` — visual references for each lesson
 
 ## Lessons
 
-- [01 - Your First Window](./lessons/01-your-first-window.md)
-- [02 - What Are Components?](./lessons/02-what-are-components.md)
-- [03 - Adding Text with JLabel](./lessons/03-adding-text-with-jlabel.md)
-- [04 - Adding Buttons with JButton](./lessons/04-adding-buttons-with-jbutton.md)
-- [05 - The Layout Problem](./lessons/05-the-layout-problem.md)
-- [06 - FlowLayout](./lessons/06-flowlayout.md)
-- [07 - Event Handling Button Clicks](./lessons/07-event-handling-button-clicks.md)
-- [08 - JTextField](./lessons/08-jtextfield.md)
-- [09 - Building a Login Form](./lessons/09-building-a-login-form.md)
+| # | Topic | Description |
+|---|-------|-------------|
+| 01 | [Your First Window](./lessons/01-your-first-window.md) | Creating and configuring a `JFrame` |
+| 02 | [What Are Components?](./lessons/02-what-are-components.md) | Understanding Swing building blocks |
+| 03 | [Adding Text with JLabel](./lessons/03-adding-text-with-jlabel.md) | Displaying text on screen |
+| 04 | [Adding Buttons with JButton](./lessons/04-adding-buttons-with-jbutton.md) | Placing clickable buttons |
+| 05 | [The Layout Problem](./lessons/05-the-layout-problem.md) | Why components disappear with `BorderLayout` |
+| 06 | [FlowLayout](./lessons/06-flowlayout.md) | Arranging multiple components |
+| 07 | [Event Handling: Button Clicks](./lessons/07-event-handling-button-clicks.md) | Making buttons respond to clicks |
+| 08 | [JTextField](./lessons/08-jtextfield.md) | Reading user input |
+| 09 | [Building a Login Form](./lessons/09-building-a-login-form.md) | Capstone — combining all skills |
 
 ## Solutions
 
@@ -33,4 +37,19 @@ This folder contains Java Swing teaching notes organized into lessons, solutions
 
 ## Screenshots
 
-Place lesson screenshots in the `screenshots/` folder.
+Visual references for each lesson are in the `screenshots/` folder.
+
+## Author
+
+Created by **Ntlakanipho Mgaguli** ([@2Ntlaks](https://github.com/2Ntlaks))  
+Computer Engineering student at the Cape Peninsula University of Technology (CPUT), Cape Town, South Africa.  
+Udemy instructor, peer tutor, and technical educator.
+
+- 🎓 [Udemy — WebGL for Beginners](https://www.udemy.com/user/ntlakanipho-mgaguli/)
+- 🌐 [ntlaks.dev](https://www.ntlaks.dev)
+- 🐦 [@Ntlakanipho07](https://twitter.com/Ntlakanipho07)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ntlakanipho-mgaguli/)
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE). Fork it, modify it, learn from it.

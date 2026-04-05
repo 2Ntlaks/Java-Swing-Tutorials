@@ -322,6 +322,45 @@ Keep building. Keep experimenting. The best way to learn is to create something.
 
 ---
 
+## Resources: Where to Go from Here
+
+Now that you have a solid foundation, here are quality resources to continue your Swing journey:
+
+### Official Documentation
+
+- [Oracle's Official Swing Tutorial](https://docs.oracle.com/javase/tutorial/uiswing/) — The definitive reference. Start with the "Using Swing Components" section.
+- [Java API Documentation (javax.swing)](https://docs.oracle.com/en/java/javase/21/docs/api/java.desktop/javax/swing/package-summary.html) — Look up any component's methods and properties.
+
+### Recommended Topics to Explore Next
+
+| Topic | What It Does | Why It Matters |
+|-------|-------------|----------------|
+| `GridLayout` | Arranges components in a grid of rows and columns | Perfect for calculators, forms, and tables |
+| `BorderLayout` | Places components in five regions (North, South, East, West, Center) | The default layout — understanding it properly unlocks complex UIs |
+| `GridBagLayout` | The most flexible (and complex) layout manager | For pixel-perfect control over component placement |
+| `JPanel` | A container that groups components together | Lets you use different layouts in different sections of the same window |
+| `JComboBox` | Dropdown selection menu | For choosing from a list of options |
+| `JCheckBox` / `JRadioButton` | Toggleable options | For settings, preferences, and multi-choice forms |
+| `JMenuBar` | Application menu bar (File, Edit, Help...) | Makes your app feel like a real desktop application |
+| `JTable` | Displays data in rows and columns | For data-heavy applications |
+| `JFileChooser` | Open/save file dialogs | For apps that work with files |
+
+### Video Tutorials
+
+- [Bro Code — Java Swing Tutorial](https://www.youtube.com/watch?v=Kmgo00avvEw) — Beginner-friendly, covers many components in a single video.
+- [thenewboston — Java GUI Playlist](https://www.youtube.com/playlist?list=PL27BCE863B6A864E3) — Classic series, short focused videos on individual components.
+
+### Practice Project Ideas
+
+1. **Calculator** — Use `GridLayout` for the button grid and event handling for the logic.
+2. **To-Do List** — Combine `JTextField`, `JButton`, and `JList` to add/remove tasks.
+3. **Student Grade Tracker** — Use `JTable` to display student names and grades, with buttons to add and remove entries.
+4. **Simple Text Editor** — Use `JTextArea`, `JMenuBar`, and `JFileChooser` to open, edit, and save text files.
+
+The pattern is always the same: import, create, add, handle events. You already know the pattern. Now go build.
+
+---
+
 ## Practice Exercises
 
 These exercises will help you extend the login form and apply everything you have learned.
