@@ -68,7 +68,7 @@ public class JavaSwing_01 extends JFrame
 
 When you run this program, a 400 by 400 pixel window appears on your screen. It has a title bar with the standard minimize, maximize, and close buttons, and the content area is completely empty. That is exactly what we want: a blank canvas, ready for components.
 
-![Empty JFrame Window](screenshots/01-empty-window.png)
+![Empty JFrame Window](../screenshots/01-empty-window.png)
 
 ---
 
