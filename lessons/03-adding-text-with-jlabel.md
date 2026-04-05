@@ -22,6 +22,8 @@ In Swing, the `JLabel` class lives in the `javax.swing` package, just like `JFra
 
 Let us build on the program from Part 1 and add a `JLabel` to our window. Read through the full program first, then we will focus on what is new.
 
+> **Before you begin:** In your IDE, create a new Java project named `JavaSwing_03`. This lesson uses the package name `javaswing_03` and the class name `JavaSwing_03`, so using a matching project name will help you avoid naming mistakes and reduce errors.
+
 ~~~java
 package javaswing_03;
 

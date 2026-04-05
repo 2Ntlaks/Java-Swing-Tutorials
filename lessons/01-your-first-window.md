@@ -44,6 +44,8 @@ By writing `extends JFrame`, our class inherits everything that `JFrame` can do.
 
 Let us write the code to create and display a basic empty window. Read through the full program first, then we will break it down line by line.
 
+> **Before you begin:** In your IDE, create a new Java project named `JavaSwing_01`. This lesson uses the package name `javaswing_01` and the class name `JavaSwing_01`, so using a matching project name will make it easier to stay consistent and avoid confusion.
+
 ~~~java
 package javaswing_01;
 
